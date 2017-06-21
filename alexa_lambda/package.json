@@ -1,0 +1,15 @@
+{
+  "name": "alexa_lambda",
+  "version": "1.0.0",
+  "description": "lambda function for invoking lambda functions with alexa via backand",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@backand/nodejs-sdk": "^1.2.5",
+    "alexa-sdk": "^1.0.10"
+  }
+}
